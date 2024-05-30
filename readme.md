@@ -8,7 +8,7 @@ The ability to create and utilize tools is a manifestation of human intelligence
 
 The same principle applies to artificial intelligence entities like large language models (LLMs). In recent years, numerous studies have explored how to enable LLMs to recognize, utilize, and even create external tools to enhance their capability to complete real-life tasks assigned by humans. We name this direction **Tool Intelligence**, which serves as a key component of **LLM Agents**. We also believe that **Tool Intelligence** is a convenient solution for LLM 2B applications.
 
-There are some [similar previous collections](https://github.com/thunlp/ToolLearningPapers) summarizing some of these works, but not in the same view and also not updated for nearly.
+There are some [similar previous collections](https://github.com/thunlp/ToolLearningPapers) summarizing some of these works, but not in the same view and not being updated.
 
 So we create this repo with a list of resources related to **Tool Intelligence**, aiming to help the related researchers have a better view of existing works, thus facilitating the development of this area.
 
@@ -41,7 +41,7 @@ Feb 2023
 
 May 2024
 
-* [SoAyBench](https://huggingface.co/datasets/frederickwang99/SoAyBench)
+* [SoAyBench](https://arxiv.org/abs/2405.15165)
 
 Mar 2024
 
