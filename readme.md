@@ -20,11 +20,11 @@ Appreciation for the efforts in advance.
 
 ## Content
 
-* **Tool Intelligence** Survey
-* **Tool Intelligence** Benchmarks
+* **Tool Intelligence** [Survey](https://github.com/WangYC-99/ToolIntelligence_Reading_List/blob/master/readme.md#%EF%B8%8F-tool-intelligence-survey)
+* **Tool Intelligence** [Benchmarks](https://github.com/WangYC-99/ToolIntelligence_Reading_List/blob/master/readme.md#-tool-intelligence-benchmarks)
 * **Tool Intelligence** Methods
-  * Tool-using
-  * Tool-creating
+  * [Tool-using](https://github.com/WangYC-99/ToolIntelligence_Reading_List/blob/master/readme.md#-tool-using-methods)
+  * [Tool-creating](https://github.com/WangYC-99/ToolIntelligence_Reading_List/blob/master/readme.md#-tool-creating-methods)
   * to be discovered...
 
 ## 🗒️ Tool Intelligence Survey
